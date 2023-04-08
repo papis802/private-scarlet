@@ -1,0 +1,1712 @@
+{
+    "META": {
+        "repoName": "private repo",
+        "repoIcon": "https://images.genius.com/f16a8a60a4c8c2ae0637037e53544b04.1000x1000x1.jpg"
+    },
+    "Tweaked": [
+        {
+            "name": "Deezer",
+            "version": "7.15.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Deezer++iOS15.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Deezer++iOS15.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Deezer++ | Deezer but plus plus",
+            "bundleID": "com.deezer.Deezer",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Provenance",
+            "version": "2.1.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Provenance2.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Provenance2.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Video game emulator for N64, Sega, SNES, Atari and more!",
+            "bundleID": "org.provenance-emu.provenance",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+{
+    "name": "OldOS",
+    "version": "1.0",
+    "down": “https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
+    "dev": "zzaneship",
+    "icon": “https://pbs.twimg.com/profile_images/1416783489106591746/DGy5_hww_400x400.jpg",
+    "category": "Recreations",
+    "description": "OldOS is a recreation of iOS 4 in Swift.",
+    "bundleID": "com.zzaneship.OldOS",
+    "screenshots" [
+        "https://raw.githubusercontent.com/zzanehip/The-OldOS-Project/master/Images/Market_1.jpg",
+        "https://raw.githubusercontent.com/zzanehip/The-OldOS-Project/master/Images/Market_2.jpg",
+        "https://raw.githubusercontent.com/zzanehip/The-OldOS-Project/master/Images/Market_3.jpg",
+     "https://raw.githubusercontent.com/zzanehip/The-OldOS-Project/master/Images/Market_4.jpg",
+     "https://raw.githubusercontent.com/zzanehip/The-OldOS-Project/master/Images/Market_5.jpg"
+
+    ],
+    "contact": {
+        "web": "https://oldos.dev",
+        "twitter": "https://twitter.com/zzanehip"
+    },
+        {
+            "name": "ScreenSaver++",
+            "version": "1.3.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/ScreenSaver++1.3.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/ScreenSaver++1.3.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "SleepSaver modified with \u201cBrooklyn\u201d screensaver inspired by Apple\u2019s October 2018 event.",
+            "bundleID": "dev.casp.ScreenSaver",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "ScreenshotX",
+            "version": "1.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/ScreenshotX1.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/ScreenshotX1.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "ScreenshotX by junesiphone for jailed devices",
+            "bundleID": "com.junesiphone.screenshotx",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Runner",
+            "version": "0.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Retro_0.2~88.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Retro_0.2~88.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Retro iPod ClickWheel Player with Spotify integration",
+            "bundleID": "co.hapticmusic.app",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Dystopia",
+            "version": "0.01",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Dystopia_0.01.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Dystopia_0.01.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Alternative to Apollo for Reddit",
+            "bundleID": "com.CarbonDev.Dystopia",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "remoteMouse",
+            "version": "4.211",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/remoteMousePro_4.211.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/remoteMousePro_4.211.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Pro features unlocked. Control your Mac, Windows, and Linux from your iOS device.",
+            "bundleID": "com.remotemouse.remoteMouse",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Dualgram Pro",
+            "version": "1.22",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/DualgramPro_1.22.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/DualgramPro_1.22.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Record front and back cameras. Pro unlocked!",
+            "bundleID": "com.just2us.dualgrampro",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Clarity",
+            "version": "7.2.6",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/ClarityWallpaperPro7.2.6.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/ClarityWallpaperPro7.2.6.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Endless Wallpapers. Pro IAP membership unlocked.",
+            "bundleID": "me.clarityapp",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "VivaVideo",
+            "version": "9.3.6",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/VivaVideo_VIP_9.3.6.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/VivaVideo_VIP_9.3.6.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "VivaVideo w\/ VIP unlocked",
+            "bundleID": "com.quvideo.XiaoYing",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Sync.ME",
+            "version": "11.17.3",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Sync.ME_VIP_11.17.3.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Sync.ME_VIP_11.17.3.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "",
+            "bundleID": "com.ultimake.smartsync",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "kokeshidoll",
+            "version": "2.2.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/kok3shidoll_v2.2.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/kok3shidoll_v2.2.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "iOS 9.3.x semi-untethered jailbreak\r\n\r\nSupported devices:\r\n\r\n64-bit devices\r\niPhone 5s, iPhone 6, iPhone 6 Plus\r\niPhone 6s, iPhone 6s Plus, iPhone SE\r\niPad Air, iPad Air 2\r\niPad Pro 12.9-inch, iPad Pro 9.7-inch\r\niPad mini 2, iPad mini 3, iPad mini 4\r\niPod touch 6G\r\n\r\n32-bit devices (9.3.5\/9.3.6, untested)\r\niPhone 4s, iPhone 5, iPhone 5c\r\niPad 2, iPad 3, iPad 4\r\niPad mini\r\niPod touch 5G\r\n\r\nIf you sign with iOS App Signer, use this version: iOS App Signer v1.13.",
+            "bundleID": "com.sakuRdev.kokeshiJB",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "PostBox",
+            "version": "0.8",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/PostBox-0.8-beta.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/PostBox-0.8-beta.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "An app for browsing tweak repos. Download and save debs on jailed devices to use for injecting and sideloading. This DOES NOT install tweaks on jailed devices, but you no longer need a jailbroken device to find and save deb files",
+            "bundleID": "com.simplycode.PostBox",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Spotify++",
+            "version": "8.6.94",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Spotify++8.6.94.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Spotify++8.6.94.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Spotify++8.6.94 but with extra dylibs",
+            "bundleID": "cypwn.spotify.plusplus.6969696969696969",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Jaility",
+            "version": "1.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Jaility.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Jaility.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Respring your jailed iOS 15 device just like it was jailbroken. An example use case for this is when sideloaded apps wont appear on homescreen, simply respring with jaility to fix.",
+            "bundleID": "com.haxi0.Jaility",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Jaility\/Jaility.ipa317.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Wallcraft Pro",
+            "version": "2.8",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Wallcraft_Pro_2.8.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Wallcraft_Pro_2.8.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Wallcraft Pro unlocked - Wallpapers for days",
+            "bundleID": "com.wallpaperscraft.wallpapers.pro",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Candy Crush Saga",
+            "version": "1.226.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Candy_Crush.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Candy_Crush.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Candy Crush modded",
+            "bundleID": "com.midasplayer.apps.candycrushsaga",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Santander",
+            "version": "1.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Santander.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Santander.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Modern File Manager for iOS 14, 15, & 16. Still in beta. Expect bugs and permission issues on newer iOS versions",
+            "bundleID": "com.serena.santanderfm",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Hdo Play",
+            "version": "1.0.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/HdoPlay-1-0-2-JKCrack.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/HdoPlay-1-0-2-JKCrack.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "With this app you can:\r\n\r\nFull detailed information on shows and movies.\r\n\r\nAdd a library of your favorite.\r\n\r\nCreate many playlists as you want.",
+            "bundleID": "com.hdoplay.apt",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "iTablaPro",
+            "version": "11.6.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/iTablaPro_11.6.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/iTablaPro_11.6.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "iTablaPro cracked by @Demoxing",
+            "bundleID": "com.upasani.iTablaPro",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "VideoShow",
+            "version": "5.7.5",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/VideoShow_5.7.5.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/VideoShow_5.7.5.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "VideoShow Pro cracked by @Demoxing",
+            "bundleID": "com.enjoy.VideoShow.Pro",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "FineReader",
+            "version": "15.4.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/FineReader_PDF_Pro_15.4.2.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/FineReader_PDF_Pro_15.4.2.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "FineReader PDF Pro cracked by @Demoxing",
+            "bundleID": "com.abbyy.finescanner-pro",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Flightradar24",
+            "version": "8.18.5",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Flightradar24_8.18.5_1661313131.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Flightradar24_8.18.5_1661313131.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Turn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it\u2019s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.",
+            "bundleID": "se.resenatverket.FlightRadar24-Free",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Flightradar24_8.18.5_1661313131\/Flightradar24_8.18.5_1661313131.ipa204.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Pixelmator",
+            "version": "2.7.3",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Pixelmator2.7.3.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Pixelmator2.7.3.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Powerful, full-featured image editor for iOS.",
+            "bundleID": "com.pixelmatorteam.pixelmator.touch",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Adobe Express",
+            "version": "11.3.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Adobe_Express_11.3.0+Satella.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Adobe_Express_11.3.0+Satella.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Includes Satella Jailed to unlock all in-app purchases. Long press with 2 fingers anywhere on the screen to open Satella settings. Enable tweak and turn on Receipts. Click buy on any IAP, then hit cancel upon confirmation.",
+            "bundleID": "com.adobe.post",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Adobe_Express_11.3.0+Satella\/Adobe_Express_11.3.0+Satella.ipa366.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Alarmy",
+            "version": "6.68.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Alarmy_6.68.0+Satella.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Alarmy_6.68.0+Satella.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Includes Satella Jailed to unlock all in-app purchases. Click the floating purple star icon to open Satella settings. Enable tweak and turn on Receipts. Click buy on any IAP, then hit cancel upon confirmation.",
+            "bundleID": "droom.sleepIfUCanFree",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "SleepCycle",
+            "version": "6.22.34",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/SleepCycle_Premium.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/SleepCycle_Premium.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Sleep Cycle Premium unlocked by Dz",
+            "bundleID": "com.lexwarelabs.goodmorning",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "play:Sub",
+            "version": "2022.3",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/playSub_2022.3.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/playSub_2022.3.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Delightful Subsonic Music Client.",
+            "bundleID": "dk.mbh.play-Sub",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Root",
+            "version": "1.0.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Root.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Root.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "The best Filza Escaped alternative for iOS 14.0 - 14.3. Other software versions will work with limited access",
+            "bundleID": "com.AppInstalleriOS.Root",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Add Repo",
+            "version": "1.0.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/AddRepo.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/AddRepo.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "App that can easily add repos to any package manager.",
+            "bundleID": "com.AppInstalleriOS.Add-Repo",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "New OS",
+            "version": "1.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/NewOS.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/NewOS.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Bring the iOS 11 experience in an app!",
+            "bundleID": "com.AppInstalleriOS.New-OS",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "AppCake+",
+            "version": "7.2.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/AppCake+.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/AppCake+.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "AppCake7+ IPA store - Dark Mode - Bypasses verify screen - No Ads",
+            "bundleID": "com.iphonecake.appcake7",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Violyn",
+            "version": "1.3",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/ViolynPublic.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/ViolynPublic.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Search CyDown's database of over 200 GB of deb files and download debs to your Files app.\r\n\r\nWhy use over CyDown, CyDown++, or Erika? Violyn can access tweaks that have been removed from package managers, and old versions. It also lets you see what has recently been updated, and if a specific tweak is available to be pirated.\r\n\r\nWorks on jailed, but obviously has limited value there :p\r\n\r\niOS 14 and macOS 11 or higher",
+            "bundleID": "Lilliana.Violyn",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Reface",
+            "version": "3.12.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/RefacePro_3.12.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/RefacePro_3.12.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Reface: Face Swap Videos. Pro unlocked.",
+            "bundleID": "com.neocortext.doublicatapp",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Star Map",
+            "version": "2.6",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Star_Map_2.6_Satella.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Star_Map_2.6_Satella.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "StarMap with Satella Jailed injection. Unlock all pro features for free. Click buy then cancel when it asks for apple id confirmation.",
+            "bundleID": "us.kvasha.startracker",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "YouCam Perfect",
+            "version": "5.76.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/YouCamPerfect_5.76.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/YouCamPerfect_5.76.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Premium unlocked",
+            "bundleID": "com.cyberlink.youperfect",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "LiveWallpapers",
+            "version": "2.42.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/LiveWallpapersForMe_2.42.2.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/LiveWallpapersForMe_2.42.2.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Premium unlocked",
+            "bundleID": "com.apalonapps.livewallpapersfree",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Wallpapers",
+            "version": "1.5.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/WallpapersCentralPro_1.5.2.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/WallpapersCentralPro_1.5.2.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Thousands of wallpapers at your fingertips. Pro features unlocked by clicking Buy on lifetime subscription, then Cancel.",
+            "bundleID": "com.ispazio.Wallpapers-Central",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Sign\ud801\udd63unes",
+            "version": "1.0 (4)",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/SignTunes.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/SignTunes.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "3rd party app signer by Rayan",
+            "bundleID": "com.iRayanKhan.Signtunes",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "FR Legends",
+            "version": "0.3.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/FRLegends++.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/FRLegends++.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "FR Legends v0.3.2 - Unlimited money, coins, & livery layers. Requires free iOSgods login.",
+            "bundleID": "com.fengiiley.frlegends",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "SuperMario64",
+            "version": "1.0.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/SuperMario64.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/SuperMario64.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Original release v1.0.0 of Super Mario 64 port for iOS. 60 FPS!",
+            "bundleID": "com.christiankosman.sm64ios",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "SuperMario64",
+            "version": "1.2.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/SuperMario64_30FPS_1.2.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/SuperMario64_30FPS_1.2.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Latest release v1.2.1 of Super Mario 64 port for iOS. 30FPS.",
+            "bundleID": "xyz.cypwn.sm64ios-30fps",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "SuperMario64",
+            "version": "1.2.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/SuperMario64_60FPS_1.2.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/SuperMario64_60FPS_1.2.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Latest release v1.2.1 of Super Mario 64 port for iOS. 60FPS!",
+            "bundleID": "xyz.cypwn.sm64ios-60fps",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Icons",
+            "version": "1.6.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/TransparentAppIcons_1.6.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/TransparentAppIcons_1.6.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Transparent App Icons is the easiest, simplest way to customize your iOS 14+ Home Screen with icons that are set against the background wallpaper to look like they're transparent.",
+            "bundleID": "com.noahgilmore.transparent-icons",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Pocket",
+            "version": "0.8.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/PostBox-Pocket.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/PostBox-Pocket.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "v0.8.1-7. AppStore release! Search cydia repos and download deb files. Extract themes for jailed device theming. Not used for installing debs.",
+            "bundleID": "com.simplycode.PostBox-Pocket",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Ulysses",
+            "version": "27.3",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Ulysses_27.3k.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Ulysses_27.3k.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Crack applies automatically, just enjoy the app :)",
+            "bundleID": "com.ulyssesapp.ios",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Chroma Hue",
+            "version": "2.1.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/ChromaHue_2.1.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/ChromaHue_2.1.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Create clean wallpapers w\/ gradients and edge outlines.",
+            "bundleID": "dev.casp.Chroma-hue",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Climax",
+            "version": "1.3",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/cl1m4x.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/cl1m4x.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "v1.3 by Kanji - Eat some corn. Blow your horn. Watch some \u2026",
+            "bundleID": "whoskanji.climax",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Alook",
+            "version": "17.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Alook_browser_17.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Alook_browser_17.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Ayy look, a browser!",
+            "bundleID": "com.ld.TakeBrowser",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "VidList",
+            "version": "0.5.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/VidList_0.5.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/VidList_0.5.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "NSFW",
+            "bundleID": "ru.ano.videoplayer",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Radarbot",
+            "version": "8.7.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/RadarbotVIP_8.7.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/RadarbotVIP_8.7.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "VIP unlocked. Cracked by @Sopranox",
+            "bundleID": "com.iteration-mobile.radarbot-free-ww",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Star VPN",
+            "version": "3.6.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/StarVPN_3.6.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/StarVPN_3.6.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Premium unlocked",
+            "bundleID": "com.peach.app",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Pandora",
+            "version": "2211.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Pandolife1.1a_2211.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Pandolife1.1a_2211.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Pandora v2211.1 with Pandolife v1.1a by Julio Verne.",
+            "bundleID": "com.pandora",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "NFC Tools",
+            "version": "2.24",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/NFCToolsPro_2.24.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/NFCToolsPro_2.24.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Pro unlocked with click and cancel method. Satella injected",
+            "bundleID": "com.wakdev.wdnfc",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Heads Up!",
+            "version": "5.1.41",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/HeadsUp_5.1.41_Satella.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/HeadsUp_5.1.41_Satella.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Satella injected for free in-app purchases. Tip: Disable receipts in satella settings then buy card packs. App may crash after clicking to buy stuff but they will appear on app restart. Turn off the Satella Enable switch before playing games to avoid further crashing.",
+            "bundleID": "com.wb.Ellen.HeadsUp",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Vinegar",
+            "version": "2.4.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Vinegar_2.4.2.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Vinegar_2.4.2.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Vinegar is a Safari extension that replaces the YouTube player with a minimal HTML video tag. It removes ads, restores picture-in-picture, and keeps videos playing in the background.",
+            "bundleID": "com.andadinosaur.Vinegar",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Infuse",
+            "version": "7.4.9",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Infuse_Pro_7.4.9.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Infuse_Pro_7.4.9.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Infuse w\/ Pro unlocked",
+            "bundleID": "com.firecore.infuse",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Summon",
+            "version": "1.8",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Summon_1.8_Satella.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Summon_1.8_Satella.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Open Links in Apps! An ultra-efficient Safari Extension that helps you opens sites in app. Choose between over 200+ apps to open from Safari. Use Satella to purchase unlimited with \u201cClick and Cancel\u201d method.",
+            "bundleID": "pineapplelabs.Opener",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Sonic",
+            "version": "3.5",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Sonic_3.5.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Sonic_3.5.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Sonic Tone Generator cracked. Eject water from your speakers and more!",
+            "bundleID": "com.vonbruno.ToneGenerator",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Messenger",
+            "version": "388.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/SharkMessenger_388.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/SharkMessenger_388.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Shark 2.2.1 + Facebook Messenger 388.0",
+            "bundleID": "com.facebook.Messenger",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Violyn",
+            "version": "1.4.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Violyn.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Violyn.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "An .ipa to search and download any deb from CyDown",
+            "bundleID": "Lilliana.Violyn",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Naiad",
+            "version": "1.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Naiad.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Naiad.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Uses RESRGAN and a model that is, for legal purposes, definitely not the leaked NovelAI model to generate images on your device, no internet connection needed! The results are 2048 x 2048. To download to your Photos library, just tap on the image after it has been generated.",
+            "bundleID": "Lilliana.Naiad",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "McClockface",
+            "version": "1.5.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/McClockface.1.5.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/McClockface.1.5.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "McClockface provides a collection of playful widget designs that display the date, time and other chronographic info at a glance, with options to customise colours and time zones widget-by-widget.",
+            "bundleID": "app.steppenbeck.McClockface",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/McClockface.1.5.1\/McClockface.1.5.1-0.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/McClockface.1.5.1\/McClockface.1.5.1-1.png"
+            ]
+        },
+        {
+            "name": "ProCamera",
+            "version": "15.5.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/ProCamera_15.5.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/ProCamera_15.5.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Professional RAW Photo Camera. Up subscription unlocked.",
+            "bundleID": "com.cocologics.ProCamera",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Keka",
+            "version": "1.0.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Keka_1.0.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Keka_1.0.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "The file archiver",
+            "bundleID": "com.aone.Keka-iOS",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Morfic",
+            "version": "1.5",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Morfic_1.5.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Morfic_1.5.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Change All Wallpaper Elements! Taking the lock screen and home screen to a new level",
+            "bundleID": "com.brendantorpey.Shape",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Ally",
+            "version": "2.0.23",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Ally_2.0.23.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Ally_2.0.23.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "This app can be used to read info about all the amiibos of nintendo \r\n",
+            "bundleID": "com.7glyphs.Ally",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "BeReal",
+            "version": "0.31.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/BeReal_0.31.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/BeReal_0.31.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Unblur your friends\u2019 posts on BeReal, even when you have not yet posted. All functions of the app work as normal.",
+            "bundleID": "AlexisBarreyat.BeReal",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "iTorrent",
+            "version": "1.9",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/iTorrent.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/iTorrent.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "It's a Torrent client for iOS",
+            "bundleID": "ru.nonamedude.iTorrent",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "CyPwn Store",
+            "version": "5.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/CyPwnStore_5.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/CyPwnStore_5.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Download Apps and Tweaks from CyPwn\u2019s IPA Library & TrollStore Library. Now able to download Tweaks from CyPwn repo also. By @Ed0ardo",
+            "bundleID": "Ed0ardo.CyPwn-Store",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "SantanderEscaped",
+            "version": "1.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/SantanderEscaped-0.3.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/SantanderEscaped-0.3.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Santander aims to enhance the experience of a file manager on an iOS device, using modern and familiar UI alongside new APIs but still living in filza's shadow :)",
+            "bundleID": "org.haxi0.santander",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "FilzaEscaped",
+            "version": "3.7",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/FilzaEscaped16.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/FilzaEscaped16.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "FilzaEscaped for 16.0 to 16.1.2. r\/w for \/var, new version with r\/w for root coming soon.",
+            "bundleID": "com.dry05.filzaescaped11-12",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "KillMyOTA",
+            "version": "1.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/KillMyOTA-1.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/KillMyOTA-1.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "OTA Killer for iOS 15.0 - 16.1.2.",
+            "bundleID": "org.haxi0.KillMyOTA",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/KillMyOTA-1.1\/KillMyOTA-1.1-0.png"
+            ]
+        },
+        {
+            "name": "WDBFontOverwrite",
+            "version": "1.10.7-1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/WDBFontOverwrite.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/WDBFontOverwrite.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Proof-of-concept app to overwrite fonts on iOS 16.1.2 and below using CVE-2022-46689.",
+            "bundleID": "com.ginsu.WDBFontOverwrite",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Speedtest",
+            "version": "4.5.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/SpeedTestPremium_4.5.2.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/SpeedTestPremium_4.5.2.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Premium cracked by Anna & Sopranox. Unlimited VPN and No Ads. Works with Sideload and TrollStore. VPN entitled cert needed for regular sideload.",
+            "bundleID": "com.ookla.speedtest",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Enmity",
+            "version": "165.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Enmity_165.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Enmity_165.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Discord + Enmity 2.1.4 with Plumpy icons and ScrollToTop",
+            "bundleID": "com.hammerandchisel.discord",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "SoundCloud",
+            "version": "6.16.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/DarkCloud_6.16.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/DarkCloud_6.16.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "SoundCloud w\/ DarkCloud by CodeyMoore",
+            "bundleID": "com.soundcloud.TouchApp",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Bazaart",
+            "version": "9.5.4",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/BazaartPremium_9.5.4.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/BazaartPremium_9.5.4.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Bazaart Premium unlocked",
+            "bundleID": "co.bazaart.app",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "YouTube Music",
+            "version": "5.43.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/YTMusicUltimate_5.43.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/YTMusicUltimate_5.43.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "YTMusicUltimate 1.2.7. Premium features for YouTube Music by Ginsu",
+            "bundleID": "com.google.ios.youtubemusic",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "YouTube",
+            "version": "18.05.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/YouTubeMurderer_18.05.2.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/YouTubeMurderer_18.05.2.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "YTKillerPlus 2.0.15k + iSponsorBlock 1.0-15 + YouTubePlus 2.3 (Return YouTube Dislikes, YouMute, YTETA)",
+            "bundleID": "com.google.ios.youtube",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Facebook",
+            "version": "401.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/FacebookNoAds_401.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/FacebookNoAds_401.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Free & Open Source Tweak for Facebook https:\/\/ github.com\/haoict\/facebook-no-ads\/releases. Features:- Remove Ads - Download Video (long press to download) - Download Story - Download Profile Picture - Disable Story Seen - Hide Composer on News Feed - Hide Stories on News Feed",
+            "bundleID": "com.facebook.Facebook",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Pellet Dodge",
+            "version": "b0.8.5",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/PelletDodge.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/PelletDodge.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Fly and Dash your way through 40+ levels (20 currently playable) in Pellet Dodge!  An arcade-like game where your friend (Ship #404) strayed away from your fleet, and now you must find them! Dashing through enemies, conquering Motherships, and more! Developed by MysticalDevelopers, one of our fellow jailbreaker\u2019s (Evil Monkey) very own son, Lag!",
+            "bundleID": "com.LagMakesGames.Pellet-Dodge",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "PicsArt",
+            "version": "21.8.6",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/PicsArtGold_21.8.6.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/PicsArtGold_21.8.6.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Picsart Gold Subscription",
+            "bundleID": "com.picsart.studio",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Dead Cells+",
+            "version": "3.2.2",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Dead_Cells_plus_v3.2.2.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Dead_Cells_plus_v3.2.2.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Play as a failed alchemic experiment and explore the sprawling, ever-changing castle to find out what happened on this gloomy island...!",
+            "bundleID": "com.playdigious.deadcells.applearcade",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Instagram",
+            "version": "273.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/InstaRocketPlus_273.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/InstaRocketPlus_273.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Instagram with Rocket 3.8.6 fully cracked + Plus for Instagram 2.5.0 fully cracked\u2026 cuz why not!?",
+            "bundleID": "com.burbn.instagram",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Cowabunga",
+            "version": "10.0.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Cowabunga10.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Cowabunga10.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "OS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox\r\n\r\n**Latest release as of 3\/23**\r\n \r\n A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\r\n \r\n Enable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.",
+            "bundleID": "com.leemin.Cowabunga",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Cowabunga10\/Cowabunga10-0.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Cowabunga10\/Cowabunga10-1.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Cowabunga10\/Cowabunga10-2.png"
+            ]
+        },
+        {
+            "name": "DramaFlix",
+            "version": "1.1.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/DramaFlix_1.1.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/DramaFlix_1.1.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Movie app",
+            "bundleID": "com.dramaflix.co",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/DramaFlix_1.1.0\/DramaFlix_1.1.0.ipa655.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/DramaFlix_1.1.0\/DramaFlix_1.1.0.ipa310.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/DramaFlix_1.1.0\/DramaFlix_1.1.0.ipa106.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Twitter",
+            "version": "9.44",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/BHTwitter_3.9.1_9.44.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/BHTwitter_3.9.1_9.44.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Twitter + BHTwitter 3.9.1",
+            "bundleID": "com.atebits.Tweetie2",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "ESign",
+            "version": "4.8.1",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/ESign_4.8.1.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/ESign_4.8.1.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "IPA self signer, tweak injector, file manager",
+            "bundleID": "p3.xyz.yyyue.esign",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Whitelist",
+            "version": "1.1.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Whitelist.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Whitelist.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Jailed iOS app to un-blacklist all enterprise-signed apps on iOS 15.0-16.1.2",
+            "bundleID": "ca.bomberfish.Whitelist",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "Periodic Table PRO",
+            "version": "1.124",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/PeriodicTablePRO_1.124.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/PeriodicTablePRO_1.124.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Chemistry in your phone!",
+            "bundleID": "chernykh.nikita.ptpro",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/PeriodicTablePRO_1.124\/PeriodicTablePRO_1.124-0.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/PeriodicTablePRO_1.124\/PeriodicTablePRO_1.124-1.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/PeriodicTablePRO_1.124\/PeriodicTablePRO_1.124-2.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/PeriodicTablePRO_1.124\/PeriodicTablePRO_1.124-3.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/PeriodicTablePRO_1.124\/PeriodicTablePRO_1.124-4.png"
+            ]
+        },
+        {
+            "name": "Photomath",
+            "version": "8.21.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/PhotomathPlus_8.21.0.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/PhotomathPlus_8.21.0.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "Photomath Plus cracked",
+            "bundleID": "com.microblink.PhotoMath",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        },
+        {
+            "name": "appdb",
+            "version": "1.1.5",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/AppDB_1.1.5.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/AppDB_1.1.5.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "A fully-featured iOS client for appdb.to written in Swift 5.",
+            "bundleID": "it.ned.appdb-ios",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png",
+                "https:\/\/ipa.cypwn.xyz\/serve\/repo_placeholder.png"
+            ]
+        }
+    ]
+}
